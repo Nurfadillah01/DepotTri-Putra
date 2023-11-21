@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "811524832573",
+    "firebase_url": "https://deporttriputra-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "deporttriputra",
+    "storage_bucket": "deporttriputra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811524832573:android:b32d32ff84a17e0e8a9954",
+        "android_client_info": {
+          "package_name": "com.depottriputra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-Q5CxF97H2-qYVe51vJbRleu2Uaxe_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811524832573:android:b3490817002d015f8a9954",
+        "android_client_info": {
+          "package_name": "com.dtpadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-Q5CxF97H2-qYVe51vJbRleu2Uaxe_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
